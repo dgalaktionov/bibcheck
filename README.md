@@ -4,7 +4,7 @@ A script to check references from a BibTeX file against Google Scholar
 ## Backstory
 Once there was a reviewer who complained about typos in researcher names from the references. He was wrong, but that was enough to have a thesis advisor on my ass asking me to re-check every reference.
 
-So I could search them all one by one in Google Scholar and checking manually that the titles, names and journales/proceedings match 100%...
+So I could search them all one by one in Google Scholar and checking manually that the titles, names and journals/proceedings match 100%...
 
 Or I could automate that boring task. So I needed bibcheck.
 
